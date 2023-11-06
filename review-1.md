@@ -1,3 +1,7 @@
+TE OFRESCO MIS CONOCIMIENTOS LAS 24 HORAS DEL DIA LOS 7 DIASDE LA SEMANA 
+ESCALABILDAD Y RENDIMIENTO DEL SERVIDOR 
+ 
+ 
  ¿QUE ES UN SERVIDOR?
  
 almacena, distribuye y suministra información. Los servidores funcionan basándose en el modelo “cliente-servidor”. 
